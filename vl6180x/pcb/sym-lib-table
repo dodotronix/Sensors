@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "board_vl6180x-rescue")(type "Legacy")(uri "/home/dodotronix/.local/share/vifm/Trash/000_Klara/Gen3/electronics/pcb/board_vl6180x/board_vl6180x-rescue.lib")(options "")(descr ""))
+)
